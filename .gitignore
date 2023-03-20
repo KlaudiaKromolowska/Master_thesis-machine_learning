@@ -1,0 +1,13 @@
+.bsp
+.plantar_pressure_analysis/bsp/
+.plantar_pressure_analysis/.idea/
+.plantar_pressure_analysis/project/project
+.plantar_pressure_analysis/project/target
+.plantar_pressure_analysis/target/
+.plantar_pressure_statistics/main.py
+.plantar_pressure_statistics/venv
+.plantar_pressure_statistics/.idea/
+.idea/
+project/project/target/
+project/target/
+target/
